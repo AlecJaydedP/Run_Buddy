@@ -74,7 +74,7 @@ section {
 
 /*Hero style sheet*/
 .hero {
-    background-image: url("../assestsimages/hero-bg.jgp");
+    background-image: url("../assests/images/hero-bg.jgp");
     height: 600px;
     background-size: cover;
     background-position: center;
